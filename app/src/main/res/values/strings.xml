@@ -2,4 +2,7 @@
     <string name="app_name">Fraccionamiento</string>
     <string name="HolaMundo">Hola Mundo de mieeerrrrd!!!</string>
     <string name="btLauro">Lauro</string>
+    <string name="chHombre">Hombre</string>
+    <string name="chMujer">Mujer</string>
+    <string name="btGuardar">Guardar</string>
 </resources>
